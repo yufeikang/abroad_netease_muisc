@@ -23,6 +23,6 @@ myca-ca开头的为ca证书，需要设置操作系统信任此CA（具体方法
 * 本地DNS重定向
 
 修改本地hosts文件，加入
-```<NGINX SERVER IP> muisc.163.com```
+```<NGINX SERVER IP> music.163.com```
 
 OK 了
